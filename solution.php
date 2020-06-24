@@ -2,6 +2,11 @@
 /*
 A function to return the biggest gap of zeros between zeros
 */
+
+/**
+ * @param int $N
+ * @return int
+ */
 function solution($N): int
 {
     $biggest_gap = 0;
